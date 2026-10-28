@@ -1,4 +1,4 @@
-# Hello DOSTO welcome back to the REPO
+# Hello Friends welcome back to the REPO
 
 <br>
 Hello i'm new user, want to explore the world of git & github.
